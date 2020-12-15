@@ -1,0 +1,1 @@
+Creating a QEats Reviews page on various social media sites. We then use a series of REST APIs to post user-submitted reviews to the QEats Reviews pages. Finally, we use a hosted AI-powered classifier to suggest relevant review hashtags.
